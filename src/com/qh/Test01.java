@@ -7,5 +7,6 @@ public class Test01 {
         }
         String a = "aa";
         String c = "";
+        String b = "";
     }
 }
