@@ -8,6 +8,6 @@ public class Test01 {
         String a = "aa";
         String c = "";
         String b = "";
-String d = "";
+        String d = "";
     }
 }
