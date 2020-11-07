@@ -5,5 +5,5 @@ public class Test01 {
         for (int i = 0; i < 100; i++) {
             System.out.println("helloworld");
         }
-    }
+        String a = "aa";
 }
